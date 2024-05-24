@@ -1,0 +1,3 @@
+> curl -X PUT http://localhost:9200/team_index
+{"acknowledged":true,"shards_acknowledged":true,"index":"team_index"}
+
